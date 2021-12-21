@@ -1,0 +1,34 @@
+{
+  "name": "blobplus",
+  "version": "1.0.0",
+  "description": "aposh#0001",
+  "main": "index.js",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "colors": "^1.4.0",
+    "d": "^1.0.1",
+    "discord-anti-spam": "^2.5.1",
+    "discord-buttons": "^4.0.0",
+    "discord-webhook-node": "^1.1.8",
+    "discord.js": "^12.5.1",
+    "line-by-line": "^0.1.6",
+    "lowdb": "^1.0.0",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apoow3b/blobplus.git"
+  },
+  "author": "mlk#2389",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apoow3b/blobplus/issues"
+  },
+  "homepage": "https://github.com/apoow3b/blobplus#readme"
+}
